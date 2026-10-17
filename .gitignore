@@ -1,0 +1,11 @@
+
+.venv/
+venv/
+__pycache__/
+.DS_Store
+datasets/
+archive/
+evidence/
+runs/
+*.pt
+tempCodeRunnerFile.py
